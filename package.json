@@ -1,0 +1,26 @@
+{
+  "name": "tochnogjs",
+  "version": "0.0.1",
+  "description": "JavaScript wrapper to the Tochnog Professional Geotechical FEM programme",
+  "main": "lib/tochnog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/numericalfreedom/tochnogjs.git"
+  },
+  "keywords": [
+    "Tochnog",
+    "Geotechnics",
+    "FEM",
+    "JavaScript",
+    "wrapper"
+  ],
+  "author": "numericalfreedom@googlemail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/numericalfreedom/tochnogjs/issues"
+  },
+  "homepage": "https://github.com/numericalfreedom/tochnogjs#readme"
+}
